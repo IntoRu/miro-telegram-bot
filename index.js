@@ -100,7 +100,10 @@ bot.on('message', async (msg) => {
       {
         data: {
           content: text,
-          shape: 'square'
+          shape: 'square',
+          style: {
+        fillColor: '#2196F3' // Синий стикер
+      }
         },
         position
       },

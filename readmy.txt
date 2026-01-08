@@ -1,10 +1,17 @@
+ШАГ 5. Поддержка и апдейты
+
+Чтобы обновить код:
+
+Локально внеси изменения
+
+git add . && git commit -m "обновление"
+
+git push origin main
+
+Render автоматически пересоберёт и перезапустит сервис
+
+Render поддерживает 24/7, но на бесплатном плане веб-сервис может спать. Для постоянной работы нужен платный план.
 
 
-
-token
-eyJtaXJvLm9yaWdpbiI6ImV1MDEifQ_MiEAiX8Jg12EcqkqKUwOHrw6Y8o
-
-refresh token
-eyJtaXJvLm9yaWdpbiI6ImV1MDEifQ_qUHOcz6qverdnGVFpLuGYtjsVsA
 
 
